@@ -171,20 +171,7 @@ footer {
     }
     .fotovier img:nth-child(4) {
         max-width: 18%;
-    }
-    .fotohola {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: nowrap;
-        gap: 10px;
-        justify-content: center;
-    }
-    .fotohola img:nth-child(1) {
-        max-width: 33%;
-    }
-    .fotohola img:nth-child(2) {
-        max-width: 65%;
-    }
+    }    
     .fotodriecar {
         display: flex;
         flex-direction: row;
@@ -200,33 +187,7 @@ footer {
     }
     .fotodriecar img:nth-child(3) {
         max-width: 42%;
-    }    
-    .fotodrieger {
-        display: flex;
-        flex-direction: wrap;
-        flex-wrap: nowrap;
-        gap: 10px;
-        justify-content: center;
-    }
-    .fotodrieger img:nth-child(1) {
-        max-width: 44%;
-    }
-    .fotodrieger img:nth-child(2) {
-        max-width: 55%;
-    }
-    .fototweekerst {
-        display:flex;
-        flex-direction: row;
-        flex-wrap: nowrap;
-        gap: 10px;
-        justify-content: center;
-    }
-    .fototweekerst img:nth-child(1) {
-        max-width: 47%;
-    }
-    .fototweekerst img:nth-child(2) {
-        max-width: 52%;
-    }
+    }        
     .verjaardagen {
         display: flex;
         flex-direction: row;
